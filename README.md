@@ -1,2 +1,2 @@
 # 9jastreet
-Chat with wifi on any 9ja street
+Chat with 9jirians with your wifi  on any 9ja street
